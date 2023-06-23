@@ -1,0 +1,28 @@
+.arenaStage{
+    border: solid blue;
+    height: 45vh;
+    background-image: url ("https://ssb.wiki.gallery/images/thumb/8/86/SSBU-Battlefield.png/1200px-SSBU-Battlefield.png")
+
+}
+.players{
+    border: solid green;
+    display: flex;
+    justify-content: space-around;
+    height: 33vh;
+}
+.playerOne{
+    border: solid ;
+    height: 14vh;
+    width: 21%;
+}
+.playerTwo{
+    border: solid;
+    height: 14vh;
+    width: 21%;
+}
+.mario{
+    width: 55%;
+}
+.Bowser{
+    width:76%;
+}
